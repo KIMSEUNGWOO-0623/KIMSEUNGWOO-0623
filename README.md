@@ -3,7 +3,6 @@
 I am a master's student in the Department of Smart City at Gachon University.
 My research interests lie in renewable energy and urban energy systems, including heat pumps, thermal energy, electric power, and energy networks.
 I am currently participating in a national R&D project on 5th-generation district heating and cooling (5GDHC).
-I also use 3D city models and solar radiation simulation (Rhino, Grasshopper, Ladybug Tools) for urban analysis, such as identifying road segments vulnerable to winter icing.
 
 ---
 
